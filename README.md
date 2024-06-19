@@ -1,7 +1,3 @@
-Here's a translation of the provided text into English:
-
----
-
 # Transport Catalogue
 
 Transport directory.
